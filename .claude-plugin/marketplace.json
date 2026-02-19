@@ -1,0 +1,28 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "9x16-tools",
+  "owner": {
+    "name": "KW Smith",
+    "email": "kw@9x16.ai"
+  },
+  "metadata": {
+    "description": "9x16 PAK creation tools for Claude"
+  },
+  "plugins": [
+    {
+      "name": "9x16-pak-kw",
+      "source": {
+        "source": "github",
+        "repo": "kw-smith/9x16"
+      },
+      "description": "9x16 PAK creation engine — semantic vocabulary, themes, catalogs, video splice, charts, narration, video export.",
+      "version": "1.2.0",
+      "author": {
+        "name": "KW Smith"
+      },
+      "homepage": "https://9x16.run",
+      "keywords": ["presentation", "9x16", "pak"],
+      "category": "productivity"
+    }
+  ]
+}
