@@ -1,0 +1,12 @@
+{
+  "name": "9x16-pak-kw",
+  "description": "9x16 PAK (Packaged Asset Kit) creation engine — KW internal version. 59-tag semantic vocabulary, 12 themes, 10 catalog presets, video splice, Chart.js, logo/image support. Creates interactive 9x16 media packages with AI narration and video export.",
+  "version": "1.2.0",
+  "author": {
+    "name": "KW Smith",
+    "url": "https://9x16.ai"
+  },
+  "homepage": "https://9x16.run",
+  "repository": "https://github.com/9x16",
+  "license": "proprietary"
+}

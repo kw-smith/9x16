@@ -1,0 +1,6 @@
+{
+  "9x16": {
+    "type": "streamable-http",
+    "url": "https://9x16.me/api/mcp.php"
+  }
+}
