@@ -1,15 +1,20 @@
 {
   "name": "9x16-tools",
   "owner": {
-    "name": "KW Smith / 9x16 AI",
+    "name": "KW Smith",
     "url": "https://9x16.ai"
+  },
+  "metadata": {
+    "description": "9x16 PAK creation tools for Claude"
   },
   "plugins": [
     {
       "name": "9x16-pak-kw",
-      "source": ".",
-      "description": "9x16 PAK creation engine — 59-tag semantic vocabulary, 12 themes, 10 catalog presets, video splice, charts, narration, video export. Creates interactive 9:16 media packages from pure JSON data.",
-      "version": "1.2.0"
+      "source": "./",
+      "description": "9x16 PAK creation engine with semantic vocabulary, themes, catalogs, video splice, charts, narration, and video export.",
+      "version": "1.2.0",
+      "keywords": ["presentation", "9x16", "pak"],
+      "category": "productivity"
     }
   ]
 }
