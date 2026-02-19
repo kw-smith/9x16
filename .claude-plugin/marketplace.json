@@ -11,10 +11,7 @@
   "plugins": [
     {
       "name": "9x16-pak-kw",
-      "source": {
-        "source": "github",
-        "repo": "kw-smith/9x16"
-      },
+      "source": "./9x16-pak-kw",
       "description": "9x16 PAK creation engine — semantic vocabulary, themes, catalogs, video splice, charts, narration, video export.",
       "version": "1.2.0",
       "author": {
